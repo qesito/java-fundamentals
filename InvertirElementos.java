@@ -1,5 +1,4 @@
-// 4. Invertir Elementos: Desarrolla un programa que lea 6 números enteros desde el teclado, los almacene en un array y luego invierta el orden de los elementos. Muestra el array invertido en la consola.
-
+// 4. Invertir Elementos:
 import java.util.Scanner;
 
 public class InvertirElementos {
