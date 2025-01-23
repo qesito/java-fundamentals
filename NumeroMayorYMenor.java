@@ -1,5 +1,4 @@
-// 3. Encontrar número Mayor y Menor: Desarrolla un programa que lea 8 números enteros desde el teclado, los almacene en un array y determine cuál es el número mayor y cuál es el número menor. Muestra ambos números en la consola.
-
+// 3. Encontrar número Mayor y Menor:
 import java.util.Scanner;
 
 public class NumeroMayorYMenor {
