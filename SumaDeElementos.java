@@ -1,5 +1,4 @@
-// 2. Suma de Elementos: Desarrolla un programa que lea 5 números enteros desde el teclado, los almacene en un array y calcule la suma de todos los elementos. Muestra la suma en la consola.
-
+// 2. Suma de Elementos:
 import java.util.Scanner;
 
 public class SumaDeElementos {
